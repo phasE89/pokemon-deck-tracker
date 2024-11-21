@@ -10,6 +10,10 @@ The deck management system allows you to easily add new decks, rename existing o
 
 Get detailed statistics about your performance, including win rates for each deck and specific matchup data. View your complete match history and edit past entries if needed.
 
+## Screenshot
+
+![image](https://github.com/user-attachments/assets/3bda64a0-2ed0-46b0-9fdc-f903e25789db)
+
 ## Installation
 
 Clone the repository and install the required dependencies:
